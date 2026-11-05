@@ -1,0 +1,5 @@
+id,nombre,ip,tipo,estado,version
+aa754801-8895-41e8-8ca5-27ee415c9c42,sw1,10.10.20.175,Switches and Hubs,Reachable,17.12.1prd9
+5a105585-b595-4b87-a01d-fd057a54abd4,sw2,10.10.20.176,Switches and Hubs,Reachable,17.12.1prd9
+9314fd24-a900-4877-8ecb-0e885fdb6495,sw3,10.10.20.177,Switches and Hubs,Reachable,17.12.1prd9
+df32db5b-a567-473a-b756-3163e5b23c6a,sw4,10.10.20.178,Switches and Hubs,Reachable,17.12.1prd9

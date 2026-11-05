@@ -1,0 +1,34 @@
+[
+  {
+    "id": "aa754801-8895-41e8-8ca5-27ee415c9c42",
+    "nombre": "sw1",
+    "ip": "10.10.20.175",
+    "tipo": "Switches and Hubs",
+    "estado": "Reachable",
+    "version": "17.12.1prd9"
+  },
+  {
+    "id": "5a105585-b595-4b87-a01d-fd057a54abd4",
+    "nombre": "sw2",
+    "ip": "10.10.20.176",
+    "tipo": "Switches and Hubs",
+    "estado": "Reachable",
+    "version": "17.12.1prd9"
+  },
+  {
+    "id": "9314fd24-a900-4877-8ecb-0e885fdb6495",
+    "nombre": "sw3",
+    "ip": "10.10.20.177",
+    "tipo": "Switches and Hubs",
+    "estado": "Reachable",
+    "version": "17.12.1prd9"
+  },
+  {
+    "id": "df32db5b-a567-473a-b756-3163e5b23c6a",
+    "nombre": "sw4",
+    "ip": "10.10.20.178",
+    "tipo": "Switches and Hubs",
+    "estado": "Reachable",
+    "version": "17.12.1prd9"
+  }
+]
